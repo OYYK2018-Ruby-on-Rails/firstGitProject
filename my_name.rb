@@ -1,2 +1,2 @@
-my_name = ""
-puts "Hello! My name is #{my_name}"
+nafi = "nafi durmus"
+puts "Hello! My name is #{nafi}"
